@@ -29,5 +29,11 @@ This repository contains a list of samples and projects related to the [SDL/SDL2
   It uses the SDL2 library to render graphics and uses CMake as a build system.<br>
   It contains build instructions and explains how to open it with an IDE.
 
+- [Flying plane animation](https://gitlab.com/aminosbh/flying-plane-sdl-animation) \[[@aminosbh](https://gitlab.com/aminosbh)\]:<br>
+  This project is written in C and uses CMake as a build system.<br>
+  It shows how we can make a basic animation using SDL2 : Flying plane.<br>
+  It contains build instructions and explains how to open it with an IDE.
+
+
 
 [SDL]: https://www.libsdl.org
