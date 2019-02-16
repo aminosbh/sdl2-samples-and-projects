@@ -18,6 +18,12 @@ This repository contains a list of samples and projects related to the [SDL/SDL2
   This sample loads Tunisia flag image and render it.
   It contains build instructions and explains how to open it with an IDE.
 
+- [SDL2_ttf sample](https://gitlab.com/aminosbh/sdl2-ttf-sample) \[[@aminosbh](https://gitlab.com/aminosbh)\]:<br>
+  This project is a basic sample written in C that demonstrates the usage of
+  the SDL2 and SDL2_ttf libraries. It uses CMake as a build system.<br>
+  This sample loads the Pacifico font and renders a sample text.
+  It contains build instructions and explains how to open it with an IDE.
+
 - [Basic C SDL2 project - Tunisia flag](https://gitlab.com/aminosbh/basic-c-sdl-project-tunisia-flag) \[[@aminosbh](https://gitlab.com/aminosbh)\]:<br>
   This project is a basic C SDL2 project that uses CMake as a build system.<br>
   It draws the flag of Tunisia using basic graphics primitives.<br>
