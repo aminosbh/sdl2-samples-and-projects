@@ -26,14 +26,14 @@ This repository contains a list of samples and projects related to the [SDL/SDL2
 
 - [SDL2 audio sample](https://gitlab.com/aminosbh/sdl2-audio-sample) \[[@aminosbh](https://gitlab.com/aminosbh)\]:<br>
   This project is a basic sample written in C that demonstrates how we can play
-  audio using the [SDL2][SDL] library. It uses [CMake][] as a build system.
+  audio using the SDL2 library. It uses CMake as a build system.
   This program will start playing waves sound that can be paused/resumed by
   pressing the SPACE key.
   It contains build instructions and explains how to open it with an IDE.
 
 - [SDL2_mixer sample](https://gitlab.com/aminosbh/sdl2-mixer-sample) \[[@aminosbh](https://gitlab.com/aminosbh)\]:<br>
   This project is a basic sample written in C that demonstrates the usage of the
-  [SDL2][SDL] and [SDL2_mixer][] libraries. It uses [CMake][] as a build system.
+  SDL2 and SDL2_mixer libraries. It uses CMake as a build system.
   This program will start playing waves sound that can be paused/resumed by
   pressing the SPACE key. When one of the arrows keys is pressed a sound effect
   is played parallelly with the waves sound.
