@@ -31,6 +31,14 @@ This repository contains a list of samples and projects related to the [SDL/SDL2
   pressing the SPACE key.
   It contains build instructions and explains how to open it with an IDE.
 
+- [SDL2_mixer sample](https://gitlab.com/aminosbh/sdl2-mixer-sample) \[[@aminosbh](https://gitlab.com/aminosbh)\]:<br>
+  This project is a basic sample written in C that demonstrates the usage of the
+  [SDL2][SDL] and [SDL2_mixer][] libraries. It uses [CMake][] as a build system.
+  This program will start playing waves sound that can be paused/resumed by
+  pressing the SPACE key. When one of the arrows keys is pressed a sound effect
+  is played parallelly with the waves sound.
+  It contains build instructions and explains how to open it with an IDE.
+
 - [Basic C SDL2 project - Tunisia flag](https://gitlab.com/aminosbh/basic-c-sdl-project-tunisia-flag) \[[@aminosbh](https://gitlab.com/aminosbh)\]:<br>
   This project is a basic C SDL2 project that uses CMake as a build system.<br>
   It draws the flag of Tunisia using basic graphics primitives.<br>
