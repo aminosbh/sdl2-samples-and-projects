@@ -1,4 +1,4 @@
-# SDL samples and projects
+# SDL/SDL2 samples and projects
 
 This repository contains a list of samples and projects related to the [SDL/SDL2][SDL] library.
 
