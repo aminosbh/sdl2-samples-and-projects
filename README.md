@@ -2,6 +2,8 @@
 
 This repository contains a list of samples and projects related to the [SDL/SDL2][SDL] library.
 
+[SDL]: https://www.libsdl.org
+
 ## Samples
 
 - [Basic C SDL2 project](https://gitlab.com/aminosbh/basic-c-sdl-project) \[[@aminosbh](https://gitlab.com/aminosbh)\]:<br>
@@ -61,6 +63,17 @@ This repository contains a list of samples and projects related to the [SDL/SDL2
   It shows how we can make a basic animation using SDL2 : Flying plane.<br>
   It contains build instructions and explains how to open it with an IDE.
 
+## Tutorials
 
+- [https://www.willusher.io/pages/sdl2/](https://www.willusher.io/pages/sdl2/)
 
-[SDL]: https://www.libsdl.org
+- [SDL2 Game Tutorials](https://www.parallelrealities.co.uk/tutorials/)
+
+- [Beginning Game Programming](http://lazyfoo.net/SDL_tutorials/)
+
+- [SDL2 Tutorial](https://www.freepascal-meets-sdl.net/sdl-tutorials/)
+
+- [Getting Started With SDL](http://gamedevgeek.com/tutorials/getting-started-with-sdl/)
+
+- [SDL library in C/C++ with examples](https://www.geeksforgeeks.org/sdl-library-in-c-c-with-examples/)
+
