@@ -67,7 +67,7 @@ This repository contains a list of samples and projects related to the [SDL/SDL2
 
 ## Tutorials
 
-- [https://www.willusher.io/pages/sdl2/](https://www.willusher.io/pages/sdl2/)
+- [TwinklebearDev SDL 2.0 Tutorial Index](https://www.willusher.io/pages/sdl2/)
 
 - [SDL2 Game Tutorials](https://www.parallelrealities.co.uk/tutorials/)
 
