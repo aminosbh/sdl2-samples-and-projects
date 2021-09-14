@@ -75,6 +75,9 @@ This repository contains a list of samples and projects related to the [SDL/SDL2
 - [Text editor](https://github.com/aminosbh/sdl2-pointerless/tree/example/text-editor) \[[@aminosbh](https://github.com/aminosbh)\]:<br>
   This is a simple text editor implementation. It is based on the [SDL2 pointerless](https://github.com/aminosbh/sdl2-pointerless) project.
 
+- [Painting app](https://github.com/aminosbh/sdl2-pointerless/tree/example/paint) \[[@aminosbh](https://github.com/aminosbh)\]:<br>
+  This is a simple painting app. It is based on the [SDL2 pointerless](https://github.com/aminosbh/sdl2-pointerless) project.
+
 ## Tutorials
 
 - [SDL Wiki](http://wiki.libsdl.org/Tutorials)
