@@ -77,6 +77,8 @@ This repository contains a list of samples and projects related to the [SDL/SDL2
 
 - [Painting app](https://github.com/aminosbh/sdl2-pointerless/tree/example/paint) \[[@aminosbh](https://github.com/aminosbh)\]:<br>
   This is a simple painting app. It is based on the [SDL2 pointerless](https://github.com/aminosbh/sdl2-pointerless) project.
+- [Simple Car Game](https://github.com/kghosein/simple-car-game-sdl2-c) \[[@kghosein](https://github.com/kghosein)\]:<br>
+  This is a simple car game build with sdl2, sdl_image and C.
 
 ## Tutorials
 
